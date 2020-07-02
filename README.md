@@ -1,6 +1,6 @@
 # Doodle
 
->## A Google Search Engine Clone using:
+>### A Google Search Engine Clone using:
 * [x] PHP
 * [x] MySQL
 * [x] Javascript
